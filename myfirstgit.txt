@@ -1,3 +1,20 @@
 u like what u see ?
 A lot bitch <3
-hmm so sex 
+hmm so sex
+
+
+// RAJOUTER UN FICHIER
+
+
+-> git add myfirstgit.txt
+
+-> git status
+
+-> git commit -m "Initialisation du repo"
+
+-> git push origin master
+
+
+// TELECHARGER UN FICHIER
+
+-> git pull origin master
