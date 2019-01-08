@@ -1,10 +1,8 @@
-u like what u see ?
-A lot bitch <3
-hmm so sex
-
+COMMENT UTILISE LA COMMANDE :
 
 // RAJOUTER UN FICHIER
 
+-> git status
 
 -> git add myfirstgit.txt
 
@@ -18,6 +16,3 @@ shblaaaaa
 // TELECHARGER UN FICHIER
 
 -> git pull origin master
-
-Je m'appel GUUUY
-
