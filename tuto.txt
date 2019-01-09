@@ -1,9 +1,0 @@
--> add
--> status
--> commit
--> push
-
-->pull
-
-MASTER
-NEW FONC
