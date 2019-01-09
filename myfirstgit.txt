@@ -1,18 +1,2 @@
-COMMENT UTILISE LA COMMANDE :
-
-// RAJOUTER UN FICHIER
-
--> git status
-
--> git add myfirstgit.txt
-
--> git status
-
--> git commit -m "Initialisation du repo"
-
--> git push origin master
-shblaaaaa
-
-// TELECHARGER UN FICHIER
-
--> git pull origin master0
+09/01/2019
+09:34
