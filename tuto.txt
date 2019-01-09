@@ -1,0 +1,6 @@
+-> add
+-> status
+-> commit
+-> push
+
+->pull
